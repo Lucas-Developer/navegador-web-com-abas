@@ -1,0 +1,9 @@
+C:\_vbn122016\WebMetro1\NavegadorWebAbas\bin\Debug\NavegadorWebAbas.exe.config
+C:\_vbn122016\WebMetro1\NavegadorWebAbas\bin\Debug\NavegadorWebAbas.exe
+C:\_vbn122016\WebMetro1\NavegadorWebAbas\bin\Debug\NavegadorWebAbas.pdb
+C:\_vbn122016\WebMetro1\NavegadorWebAbas\obj\Debug\NavegadorWebAbas.csprojResolveAssemblyReference.cache
+C:\_vbn122016\WebMetro1\NavegadorWebAbas\obj\Debug\NavegadorWebAbas.Form1.resources
+C:\_vbn122016\WebMetro1\NavegadorWebAbas\obj\Debug\NavegadorWebAbas.Properties.Resources.resources
+C:\_vbn122016\WebMetro1\NavegadorWebAbas\obj\Debug\NavegadorWebAbas.csproj.GenerateResource.Cache
+C:\_vbn122016\WebMetro1\NavegadorWebAbas\obj\Debug\NavegadorWebAbas.exe
+C:\_vbn122016\WebMetro1\NavegadorWebAbas\obj\Debug\NavegadorWebAbas.pdb
